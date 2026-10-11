@@ -61,6 +61,8 @@ Tracks the build and launch progress of the LumpiaMoo one-page website.
   Verified responsive with no horizontal overflow down to **360px** (headless render).
 - **Visual direction:** restyled to "Liquid Glass" (iOS-modern glassmorphism) — translucent
   frosted surfaces over a warm aurora backdrop, large radii, specular highlights (ADR-006).
+- **Published repo:** pushed to GitHub — <https://github.com/Hnfzrog/lumpiamoo-web> (public, branch `main`).
+  Committed with `git` from CommandLineTools (the `/usr/bin/git` shim is blocked by an unaccepted Xcode license).
 
 ## 9. Upcoming Focus
 

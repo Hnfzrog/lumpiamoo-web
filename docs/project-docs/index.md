@@ -48,6 +48,7 @@ Covers the documentation inventory, ownership map, and navigation rules for the 
 
 ## Related Documents
 
+- GitHub repository: <https://github.com/Hnfzrog/lumpiamoo-web> (public)
 - [`../README.md`](../../README.md) — repository root readme (if present).
 
 ## Open Questions
